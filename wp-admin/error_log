@@ -1,0 +1,2 @@
+[20-Jul-2021 09:02:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/mygoldh1/public_html/royalcareer/wp-includes/class-wp-image-editor-imagick.php on line 373
+[23-Jul-2021 11:36:58 UTC] PHP Warning:  Error while sending QUERY packet. PID=1023060 in /home3/mygoldh1/public_html/royalcareer/wp-includes/wp-db.php on line 2056

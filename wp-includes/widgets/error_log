@@ -1,0 +1,76 @@
+[13-Aug-2021 12:29:58 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Aug-2021 17:09:06 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Sep-2021 19:29:56 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Sep-2021 07:49:10 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Sep-2021 22:24:28 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Sep-2021 22:50:39 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php on line 17
+[10-Sep-2021 22:01:30 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Sep-2021 13:55:50 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Sep-2021 06:07:49 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Sep-2021 18:58:16 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Sep-2021 00:19:56 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Sep-2021 12:49:53 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Sep-2021 18:22:39 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Sep-2021 17:52:41 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Sep-2021 06:39:09 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Sep-2021 12:55:18 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php on line 17
+[18-Sep-2021 16:18:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php on line 17
+[18-Sep-2021 19:28:28 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php on line 17
+[18-Sep-2021 22:34:15 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/mygoldh1/public_html/royalcareer/wp-includes/widgets/class-wp-widget-block.php on line 17
