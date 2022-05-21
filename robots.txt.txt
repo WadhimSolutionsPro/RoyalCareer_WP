@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+https://royalcareer.in/wp-sitemap.xml
