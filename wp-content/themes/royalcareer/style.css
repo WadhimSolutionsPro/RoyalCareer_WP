@@ -1,0 +1,23 @@
+/*
+Theme Name:Royalcareer
+Theme URI: https://www.royalcareer.in
+Author: Satinder
+Author URI:  https://www.royalcareer.in
+Description: Royalcareer theme using the Bootstrap framework.
+Version: 1.0
+Text Domain: royalcareer.in
+*/
+.navbar-brand img {
+	width: 285px;
+}
+.courses_box {
+	box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;
+	padding: 10px;
+	min-height: 250px;
+}
+.avtar-detail h6 {
+	font-weight: 600;
+	margin-top:30px !important;
+	margin-bottom: 0;
+	color:#F17D08 !important;
+}
